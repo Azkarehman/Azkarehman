@@ -13,8 +13,16 @@ My technical skills include Python, MATLAB, Latex, Tensorflow, Scikit learn, Ope
 # Here are some of the projects I did!
 
 ## Topic Modeling of "The News" Articles
+
+*Below is the visualization of most common words in each article*
 ![wordcloud.png](https://github.com/Azkarehman/Azkarehman/blob/main/wordcloud.png)
 
 ## EDA on Mall Customers
+
+*Below is the image of visualizations I used to draw useful conclusions*
 ![Visualization.PNG](https://github.com/Azkarehman/Azkarehman/blob/main/Visualization.PNG)
+
+## Lazy Snapping
+
+![lazysnapping.png](https://github.com/Azkarehman/Azkarehman/blob/main/lazysnapping.PNG)
 
