@@ -14,9 +14,8 @@ My technical skills include Python, MATLAB, Latex, Tensorflow, Scikit learn, Ope
 
 ## Topic Modeling of "The News" Articles
 
-![Visualization.PNG] (https://github.com/Azkarehman/Mall-Customer-Segmentation-using-ML/blob/master/Visualization.PNG)
+![Visualization.PNG](https://github.com/Azkarehman/Azkarehman/blob/main/Visualization.PNG)
 
-(https://github.com/Azkarehman/Mall-Customer-Segmentation-using-ML/blob/master/Visualization.PNG)
-
+![Azkarehman/blob/main/Visualization.PNG](https://github.com/Azkarehman/Azkarehman/blob/main/Visualization.PNG)
 
 ![Mall-Customer-Segmentation-using-ML/blob/master/Visualization.PNG] (https://github.com/Azkarehman/Mall-Customer-Segmentation-using-ML/blob/master/Visualization.PNG)
