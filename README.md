@@ -13,9 +13,8 @@ My technical skills include Python, MATLAB, Latex, Tensorflow, Scikit learn, Ope
 # Here are some of the projects I did!
 
 ## Topic Modeling of "The News" Articles
+![wordcloud.png](https://github.com/Azkarehman/Azkarehman/blob/main/wordcloud.png)
 
+## EDA on Mall Customers
 ![Visualization.PNG](https://github.com/Azkarehman/Azkarehman/blob/main/Visualization.PNG)
 
-![Azkarehman/blob/main/Visualization.PNG](https://github.com/Azkarehman/Azkarehman/blob/main/Visualization.PNG)
-
-![Mall-Customer-Segmentation-using-ML/blob/master/Visualization.PNG] (https://github.com/Azkarehman/Mall-Customer-Segmentation-using-ML/blob/master/Visualization.PNG)
