@@ -26,3 +26,10 @@ My technical skills include Python, MATLAB, Latex, Tensorflow, Scikit learn, Ope
 
 ![lazysnapping.png](https://github.com/Azkarehman/Azkarehman/blob/main/lazysnapping.PNG)
 
+## Harris corner Detector
+
+![Harriscorner.png](https://github.com/Azkarehman/Azkarehman/blob/main/Harriscorner.PNG)
+
+## Scene Classifier
+
+![Harriscorner.png](https://github.com/Azkarehman/Azkarehman/blob/main/scene%20classification.png)
