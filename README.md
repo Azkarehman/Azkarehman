@@ -26,7 +26,7 @@ My technical skills include Python, MATLAB, Latex, Tensorflow, Scikit learn, Ope
 
 ## Lazy Snapping
 
-![lazysnapping.png](https://github.com/Azkarehman/Azkarehman/blob/main/lazysnapping.PNG=100*100)
+![lazysnapping.png](https://github.com/Azkarehman/Azkarehman/blob/main/lazysnapping.PNG)
 
 ## Harris corner Detector
 
