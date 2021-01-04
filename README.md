@@ -1,4 +1,4 @@
-# Heyyy there! How you doin! :wink:
+# Hi
 **I'm Azka Rehman and I want to be a Machine Learning Engineer**
 
 
