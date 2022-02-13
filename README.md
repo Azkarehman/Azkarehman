@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on [Liver Tumor Segmentation](https://github.com/Azkarehman/Liver-Tumor-Segmentation)
 
-- 🌱 I’m currently learning **Docker with Python**
+- 🌱 I’m currently learning **Advanced Deep Learning and Image Data Concepts**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Azkarehman](https://github.com/Azkarehman)
+- 👨‍💻 All of my projects are available at [Azkarehman](https://github.com/Azkarehman)
 
 - 📫 How to reach me **azkarehman2598@gmail.com**
 
