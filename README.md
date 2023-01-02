@@ -4,9 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azkarehman&label=Profile%20views&color=0e75b6&style=flat" alt="azkarehman" /> </p>
 
-- 🔭 I’m currently working on [Liver Tumor Segmentation](https://github.com/Azkarehman/Liver-Tumor-Segmentation)
-
-- 🌱 I’m currently learning **Advanced Deep Learning Concepts**
 
 - 👨‍💻 All of my projects are available at [Azkarehman](https://github.com/Azkarehman)
 
